@@ -1,0 +1,1001 @@
+id,usia,jenis_kelamin,status_pernikahan,pendidikan,jumlah_anggota_keluarga,pendapatan_bulanan,agama,pekerjaan
+Responden1,59,L,janda/duda,sma,3,9000000,khonghucu,Engineer II
+Responden2,58,L,menikah,s1,2,2000000,islam,VP Accounting
+Responden3,32,P,menikah,s2,3,1000000,islam,Research Assistant III
+Responden4,74,P,menikah,sma,1,5000000,islam,Account Executive
+Responden5,32,L,menikah,s1,1,6000000,islam,Editor
+Responden6,35,P,menikah,sma,6,4000000,protestan,VP Sales
+Responden7,20,P,belum menikah,sma,3,1000000,katolik,Legal Assistant
+Responden8,23,L,belum menikah,s1,5,13000000,islam,Automation Specialist I
+Responden9,46,P,menikah,s2,3,2000000,katolik,VP Product Management
+Responden10,47,L,janda/duda,sma,1,11000000,islam,Human Resources Assistant III
+Responden11,65,P,janda/duda,sd,1,7000000,islam,Senior Cost Accountant
+Responden12,50,L,menikah,sma,6,3000000,hindu,Recruiter
+Responden13,68,L,janda/duda,s1,1,1000000,islam,Database Administrator III
+Responden14,44,L,menikah,sma,1,13000000,islam,Assistant Professor
+Responden15,31,L,menikah,sma,5,3000000,islam,Senior Quality Engineer
+Responden16,27,L,belum menikah,sma,1,10000000,islam,Administrative Assistant IV
+Responden17,22,L,menikah,sma,2,14000000,islam,Safety Technician IV
+Responden18,59,L,janda/duda,sma,6,1000000,hindu,Design Engineer
+Responden19,34,L,menikah,sma,1,4000000,islam,Account Coordinator
+Responden20,38,L,menikah,s1,6,8000000,islam,Research Associate
+Responden21,70,L,cerai,s2,2,9000000,islam,Web Developer III
+Responden22,26,P,menikah,sma,6,8000000,islam,Human Resources Assistant II
+Responden23,71,P,cerai,sma,1,3000000,islam,Desktop Support Technician
+Responden24,35,P,belum menikah,sma,3,3000000,hindu,Senior Cost Accountant
+Responden25,50,P,cerai,smp,2,13000000,islam,Product Engineer
+Responden26,47,P,menikah,sma,1,14000000,islam,Graphic Designer
+Responden27,48,L,menikah,sma,5,11000000,protestan,Quality Engineer
+Responden28,20,P,belum menikah,smp,6,3000000,katolik,Administrative Officer
+Responden29,52,L,cerai,s3,4,2000000,islam,Senior Sales Associate
+Responden30,69,L,cerai,sma,5,9000000,islam,Recruiting Manager
+Responden31,39,P,menikah,sma,4,11000000,islam,Financial Advisor
+Responden32,70,P,janda/duda,sma,4,14000000,islam,Desktop Support Technician
+Responden33,24,L,menikah,s1,5,7000000,islam,Paralegal
+Responden34,37,P,menikah,s2,3,7000000,islam,
+Responden35,77,L,janda/duda,s1,1,4000000,islam,Programmer III
+Responden36,68,P,cerai,s1,3,15000000,islam,Occupational Therapist
+Responden37,33,P,menikah,s1,1,1000000,islam,Safety Technician II
+Responden38,30,L,janda/duda,sma,5,9000000,islam,Nuclear Power Engineer
+Responden39,41,L,janda/duda,smp,4,7000000,islam,Business Systems Development Analyst
+Responden40,80,L,cerai,sma,4,9000000,islam,Legal Assistant
+Responden41,41,L,cerai,s1,4,14000000,islam,Recruiting Manager
+Responden42,25,L,menikah,sma,4,3000000,islam,Chief Design Engineer
+Responden43,49,P,menikah,s2,3,8000000,islam,Developer III
+Responden44,57,P,janda/duda,s1,5,3000000,islam,Budget/Accounting Analyst I
+Responden45,35,L,cerai,smp,6,9000000,islam,Assistant Media Planner
+Responden46,77,L,janda/duda,sma,4,10000000,islam,Dental Hygienist
+Responden47,61,P,janda/duda,sma,4,15000000,islam,VP Quality Control
+Responden48,24,P,belum menikah,s1,4,7000000,islam,Marketing Assistant
+Responden49,47,P,cerai,s2,5,15000000,islam,Help Desk Operator
+Responden50,74,L,janda/duda,sma,5,13000000,islam,Electrical Engineer
+Responden51,31,P,menikah,s1,1,7000000,islam,Quality Engineer
+Responden52,19,P,menikah,sma,3,11000000,islam,Developer I
+Responden53,49,P,menikah,sma,3,15000000,islam,Safety Technician II
+Responden54,23,L,belum menikah,s2,4,1000000,islam,Health Coach IV
+Responden55,63,L,menikah,sma,2,13000000,protestan,Senior Financial Analyst
+Responden56,50,P,menikah,s2,2,15000000,islam,Geological Engineer
+Responden57,35,L,menikah,sma,1,15000000,islam,VP Quality Control
+Responden58,57,P,janda/duda,s1,6,12000000,islam,Accounting Assistant I
+Responden59,26,L,menikah,sma,5,11000000,islam,Product Engineer
+Responden60,44,P,menikah,smp,5,15000000,islam,
+Responden61,38,L,menikah,sma,3,10000000,budha,Social Worker
+Responden62,58,L,janda/duda,s3,3,6000000,islam,Automation Specialist I
+Responden63,25,P,belum menikah,smp,5,2000000,budha,Compensation Analyst
+Responden64,21,L,belum menikah,smp,4,4000000,islam,Statistician II
+Responden65,32,P,janda/duda,sd,3,7000000,islam,Product Engineer
+Responden66,67,P,menikah,sma,5,2000000,islam,Pharmacist
+Responden67,57,L,cerai,sma,5,7000000,islam,Professor
+Responden68,75,P,janda/duda,smp,2,4000000,islam,Research Associate
+Responden69,56,P,menikah,sma,3,3000000,islam,Desktop Support Technician
+Responden70,72,L,menikah,s1,6,15000000,islam,Actuary
+Responden71,78,P,cerai,s2,2,4000000,budha,Recruiting Manager
+Responden72,54,P,cerai,s2,6,12000000,islam,Senior Quality Engineer
+Responden73,28,L,belum menikah,s1,1,13000000,budha,Software Consultant
+Responden74,21,P,belum menikah,s1,1,12000000,islam,Biostatistician III
+Responden75,22,P,belum menikah,s1,6,14000000,islam,Engineer I
+Responden76,45,P,janda/duda,sma,4,7000000,islam,Research Nurse
+Responden77,64,L,janda/duda,s1,3,4000000,islam,VP Sales
+Responden78,78,P,menikah,s1,6,1000000,islam,Quality Control Specialist
+Responden79,18,L,menikah,s3,5,4000000,islam,Account Representative I
+Responden80,29,L,menikah,s3,2,14000000,islam,Financial Advisor
+Responden81,73,P,menikah,s2,4,9000000,katolik,Tax Accountant
+Responden82,37,P,menikah,s1,5,6000000,islam,Web Developer III
+Responden83,32,L,menikah,smp,4,5000000,katolik,Accountant II
+Responden84,36,P,janda/duda,s2,2,11000000,khonghucu,Software Test Engineer III
+Responden85,74,P,janda/duda,s1,6,5000000,islam,Associate Professor
+Responden86,70,L,menikah,sma,6,9000000,islam,Software Consultant
+Responden87,26,P,belum menikah,s1,5,6000000,islam,Assistant Professor
+Responden88,39,P,menikah,s2,6,11000000,islam,Senior Developer
+Responden89,68,P,menikah,s2,6,12000000,hindu,Systems Administrator I
+Responden90,80,P,menikah,s3,3,7000000,islam,Editor
+Responden91,54,L,menikah,sma,2,7000000,islam,Recruiter
+Responden92,73,L,janda/duda,smp,6,6000000,islam,Actuary
+Responden93,22,L,belum menikah,s1,5,6000000,islam,Product Engineer
+Responden94,30,L,cerai,sma,2,9000000,protestan,Social Worker
+Responden95,76,P,janda/duda,s3,2,10000000,islam,Design Engineer
+Responden96,47,P,menikah,s1,6,9000000,islam,Environmental Tech
+Responden97,42,P,menikah,sma,5,10000000,islam,Accounting Assistant IV
+Responden98,73,P,janda/duda,s1,4,6000000,islam,Electrical Engineer
+Responden99,23,P,belum menikah,s2,1,14000000,islam,Marketing Manager
+Responden100,27,P,belum menikah,s1,1,10000000,islam,Design Engineer
+Responden101,78,P,cerai,smp,5,12000000,hindu,Safety Technician I
+Responden102,74,P,cerai,sma,2,12000000,hindu,Human Resources Assistant IV
+Responden103,57,P,janda/duda,sma,3,6000000,islam,Senior Cost Accountant
+Responden104,70,P,janda/duda,sma,1,4000000,protestan,
+Responden105,63,L,menikah,s1,2,10000000,islam,Nurse
+Responden106,60,L,cerai,s1,4,5000000,protestan,Project Manager
+Responden107,32,L,menikah,smp,5,15000000,islam,Recruiter
+Responden108,73,P,janda/duda,s2,4,1000000,islam,Office Assistant III
+Responden109,38,P,janda/duda,s1,3,4000000,protestan,Health Coach IV
+Responden110,61,L,janda/duda,s1,4,14000000,islam,Tax Accountant
+Responden111,18,P,menikah,sma,3,10000000,islam,Help Desk Technician
+Responden112,32,L,menikah,smp,2,7000000,islam,Technical Writer
+Responden113,44,L,belum menikah,s1,3,11000000,islam,Cost Accountant
+Responden114,56,P,menikah,s1,1,14000000,islam,
+Responden115,50,L,janda/duda,sma,3,8000000,islam,Chief Design Engineer
+Responden116,55,L,janda/duda,sd,2,1000000,islam,Payment Adjustment Coordinator
+Responden117,21,P,belum menikah,s3,3,5000000,islam,Desktop Support Technician
+Responden118,73,P,menikah,sma,2,14000000,islam,Senior Developer
+Responden119,62,P,menikah,s3,6,8000000,islam,Nurse
+Responden120,26,L,menikah,s1,4,2000000,protestan,Biostatistician III
+Responden121,75,L,cerai,s2,3,5000000,protestan,Financial Analyst
+Responden122,30,L,janda/duda,smp,1,12000000,islam,Chief Design Engineer
+Responden123,48,L,belum menikah,smp,1,11000000,islam,Marketing Assistant
+Responden124,21,P,belum menikah,sma,6,8000000,islam,Automation Specialist III
+Responden125,59,L,menikah,s1,3,13000000,islam,Human Resources Manager
+Responden126,28,L,belum menikah,s1,3,12000000,protestan,Civil Engineer
+Responden127,43,P,janda/duda,sma,2,8000000,islam,Data Coordinator
+Responden128,69,L,menikah,sma,4,1000000,islam,Administrative Officer
+Responden129,24,L,belum menikah,s2,4,3000000,budha,Assistant Media Planner
+Responden130,71,L,janda/duda,s3,4,11000000,islam,Tax Accountant
+Responden131,29,P,belum menikah,sma,6,10000000,islam,Operator
+Responden132,27,P,menikah,sma,6,15000000,islam,Staff Scientist
+Responden133,19,L,menikah,s2,3,1000000,budha,Marketing Assistant
+Responden134,69,L,cerai,sma,3,9000000,budha,Social Worker
+Responden135,35,L,menikah,s1,5,6000000,islam,Web Designer III
+Responden136,34,L,menikah,sma,6,1000000,islam,Financial Advisor
+Responden137,71,L,janda/duda,sma,1,12000000,islam,Recruiting Manager
+Responden138,61,P,janda/duda,s1,1,5000000,islam,Graphic Designer
+Responden139,23,L,menikah,smp,3,4000000,islam,Research Nurse
+Responden140,22,P,menikah,s1,5,6000000,islam,
+Responden141,24,L,menikah,s2,6,4000000,islam,Systems Administrator II
+Responden142,27,L,belum menikah,sma,1,4000000,islam,Help Desk Technician
+Responden143,77,P,janda/duda,s1,6,8000000,islam,Help Desk Technician
+Responden144,24,L,belum menikah,sma,2,7000000,islam,Occupational Therapist
+Responden145,52,P,janda/duda,s2,1,5000000,islam,Help Desk Technician
+Responden146,54,L,janda/duda,s1,3,9000000,islam,Product Engineer
+Responden147,42,P,janda/duda,s1,2,14000000,islam,Speech Pathologist
+Responden148,45,L,menikah,s1,5,12000000,khonghucu,Structural Engineer
+Responden149,70,L,menikah,s1,5,11000000,islam,Speech Pathologist
+Responden150,28,L,belum menikah,sma,2,9000000,islam,Tax Accountant
+Responden151,25,P,belum menikah,s1,2,12000000,islam,Assistant Manager
+Responden152,72,P,janda/duda,sma,3,11000000,islam,Programmer Analyst IV
+Responden153,78,P,janda/duda,s3,2,3000000,islam,Health Coach III
+Responden154,54,L,cerai,sma,3,3000000,islam,Software Consultant
+Responden155,18,P,belum menikah,sma,2,5000000,islam,Graphic Designer
+Responden156,31,P,janda/duda,smp,6,8000000,islam,Senior Sales Associate
+Responden157,64,L,janda/duda,sma,4,8000000,islam,Social Worker
+Responden158,67,L,menikah,s2,1,12000000,islam,Librarian
+Responden159,25,P,belum menikah,s1,1,3000000,islam,Occupational Therapist
+Responden160,59,L,menikah,sma,6,11000000,islam,Help Desk Technician
+Responden161,67,L,janda/duda,sma,6,6000000,islam,Internal Auditor
+Responden162,18,L,belum menikah,s3,4,12000000,islam,Associate Professor
+Responden163,45,L,menikah,sma,6,7000000,islam,Actuary
+Responden164,68,L,cerai,smp,1,11000000,islam,Help Desk Operator
+Responden165,64,L,menikah,s1,6,5000000,islam,Nurse Practicioner
+Responden166,50,L,menikah,sma,1,6000000,islam,Sales Representative
+Responden167,33,L,menikah,sma,1,5000000,islam,Associate Professor
+Responden168,41,P,menikah,sma,5,11000000,islam,Staff Scientist
+Responden169,79,L,janda/duda,sma,6,3000000,islam,VP Accounting
+Responden170,32,P,menikah,s3,1,4000000,hindu,Clinical Specialist
+Responden171,21,P,belum menikah,s3,2,3000000,katolik,Quality Control Specialist
+Responden172,35,L,belum menikah,sma,1,9000000,islam,VP Marketing
+Responden173,53,L,menikah,s2,4,5000000,islam,Technical Writer
+Responden174,44,L,menikah,sma,2,14000000,islam,Senior Quality Engineer
+Responden175,62,P,janda/duda,sma,3,12000000,islam,Sales Associate
+Responden176,67,P,janda/duda,smp,5,1000000,islam,Nurse Practicioner
+Responden177,21,P,menikah,sma,1,13000000,katolik,Environmental Tech
+Responden178,34,P,menikah,sma,5,2000000,protestan,
+Responden179,57,P,menikah,s2,1,8000000,protestan,Chief Design Engineer
+Responden180,53,L,janda/duda,smp,3,7000000,hindu,Teacher
+Responden181,49,P,menikah,s2,2,6000000,islam,Nuclear Power Engineer
+Responden182,20,P,menikah,sd,6,13000000,islam,Software Consultant
+Responden183,59,L,janda/duda,s1,1,14000000,islam,Nuclear Power Engineer
+Responden184,33,L,menikah,s2,1,4000000,katolik,VP Accounting
+Responden185,38,L,menikah,smp,6,7000000,protestan,Speech Pathologist
+Responden186,70,P,cerai,s1,1,2000000,islam,Food Chemist
+Responden187,55,P,janda/duda,s1,3,14000000,islam,Help Desk Technician
+Responden188,28,L,menikah,s1,4,1000000,islam,Director of Sales
+Responden189,60,P,menikah,s1,6,15000000,islam,
+Responden190,64,L,menikah,s1,2,1000000,islam,Programmer Analyst IV
+Responden191,66,P,cerai,sma,1,15000000,islam,Computer Systems Analyst III
+Responden192,33,P,menikah,sma,3,12000000,islam,Safety Technician I
+Responden193,52,P,janda/duda,s1,2,13000000,islam,Office Assistant III
+Responden194,70,L,janda/duda,s1,5,12000000,islam,VP Product Management
+Responden195,74,P,janda/duda,sma,1,1000000,islam,Safety Technician IV
+Responden196,28,L,menikah,sma,6,11000000,katolik,Project Manager
+Responden197,36,P,menikah,s2,6,13000000,islam,Nurse Practicioner
+Responden198,70,L,janda/duda,s1,6,3000000,islam,Chief Design Engineer
+Responden199,55,P,menikah,s2,4,11000000,islam,Human Resources Assistant I
+Responden200,27,L,menikah,sma,2,8000000,islam,Analyst Programmer
+Responden201,64,L,menikah,smp,2,10000000,islam,Software Consultant
+Responden202,70,L,cerai,s1,4,11000000,islam,Human Resources Assistant III
+Responden203,23,L,menikah,sma,2,1000000,islam,Programmer Analyst II
+Responden204,74,P,menikah,sma,4,15000000,islam,Programmer Analyst II
+Responden205,46,P,janda/duda,s1,3,10000000,islam,Community Outreach Specialist
+Responden206,56,L,janda/duda,s2,3,7000000,khonghucu,Account Representative I
+Responden207,26,P,menikah,smp,3,6000000,hindu,
+Responden208,57,L,janda/duda,sma,5,7000000,islam,Staff Accountant IV
+Responden209,25,P,menikah,sma,1,8000000,islam,Accountant II
+Responden210,37,P,menikah,s2,2,3000000,islam,Sales Associate
+Responden211,50,P,menikah,smp,4,14000000,islam,Senior Sales Associate
+Responden212,76,L,janda/duda,s3,5,11000000,islam,Mechanical Systems Engineer
+Responden213,45,P,menikah,s2,5,6000000,protestan,Executive Secretary
+Responden214,59,L,janda/duda,sma,2,2000000,budha,Senior Sales Associate
+Responden215,35,L,menikah,sma,5,7000000,islam,Account Executive
+Responden216,46,L,menikah,s1,6,11000000,islam,Research Assistant III
+Responden217,41,L,janda/duda,sma,2,12000000,islam,Financial Analyst
+Responden218,45,P,menikah,smp,1,4000000,islam,Web Developer II
+Responden219,61,L,janda/duda,s1,3,7000000,islam,Geological Engineer
+Responden220,68,L,janda/duda,sma,1,2000000,islam,Associate Professor
+Responden221,33,L,menikah,sma,6,12000000,protestan,Senior Editor
+Responden222,74,P,janda/duda,s2,2,5000000,islam,Help Desk Technician
+Responden223,27,P,menikah,s1,3,5000000,islam,Analog Circuit Design manager
+Responden224,69,L,janda/duda,smp,2,15000000,islam,Statistician IV
+Responden225,62,L,janda/duda,s2,2,14000000,islam,Account Coordinator
+Responden226,76,L,janda/duda,s2,4,13000000,islam,
+Responden227,57,L,janda/duda,sma,3,15000000,islam,Assistant Professor
+Responden228,41,L,menikah,sma,1,14000000,protestan,Human Resources Assistant I
+Responden229,39,L,belum menikah,s1,5,5000000,islam,Staff Accountant III
+Responden230,68,L,janda/duda,s3,4,8000000,islam,Occupational Therapist
+Responden231,53,P,cerai,sma,3,12000000,islam,Help Desk Operator
+Responden232,29,L,menikah,s1,4,9000000,islam,Paralegal
+Responden233,71,L,janda/duda,sma,5,15000000,islam,Business Systems Development Analyst
+Responden234,73,P,janda/duda,sma,4,15000000,islam,Sales Representative
+Responden235,28,P,cerai,sma,2,3000000,islam,GIS Technical Architect
+Responden236,62,P,janda/duda,s1,5,12000000,islam,GIS Technical Architect
+Responden237,65,P,janda/duda,s1,3,1000000,protestan,Junior Executive
+Responden238,30,L,cerai,sma,4,1000000,islam,Compensation Analyst
+Responden239,61,P,janda/duda,s1,5,8000000,islam,Chief Design Engineer
+Responden240,31,L,menikah,s1,1,4000000,islam,Recruiting Manager
+Responden241,25,P,menikah,sma,2,4000000,islam,Human Resources Manager
+Responden242,75,L,janda/duda,sma,2,3000000,islam,
+Responden243,50,P,cerai,s2,5,4000000,islam,Analog Circuit Design manager
+Responden244,78,L,janda/duda,sma,4,6000000,islam,Marketing Assistant
+Responden245,33,P,menikah,s2,3,6000000,islam,
+Responden246,70,L,cerai,smp,5,7000000,islam,Administrative Assistant I
+Responden247,35,L,cerai,s2,2,14000000,islam,Quality Engineer
+Responden248,39,P,janda/duda,sma,4,4000000,islam,
+Responden249,69,P,janda/duda,sd,3,6000000,islam,Financial Advisor
+Responden250,73,L,janda/duda,sma,6,8000000,islam,
+Responden251,70,P,janda/duda,s2,6,5000000,islam,Recruiting Manager
+Responden252,45,L,menikah,smp,2,14000000,islam,
+Responden253,44,L,cerai,s3,2,14000000,islam,Project Manager
+Responden254,42,L,menikah,s1,3,5000000,islam,Senior Financial Analyst
+Responden255,76,L,cerai,sma,3,1000000,islam,VP Product Management
+Responden256,34,P,menikah,s1,1,4000000,islam,Software Engineer II
+Responden257,47,P,menikah,s1,1,6000000,islam,Account Coordinator
+Responden258,49,P,menikah,sma,4,7000000,islam,Analog Circuit Design manager
+Responden259,57,L,menikah,sma,5,12000000,islam,Occupational Therapist
+Responden260,40,L,menikah,s2,5,2000000,islam,Paralegal
+Responden261,42,L,menikah,sma,6,11000000,islam,Office Assistant III
+Responden262,25,L,menikah,s1,3,6000000,islam,Graphic Designer
+Responden263,79,P,menikah,s3,6,12000000,protestan,Accounting Assistant I
+Responden264,52,P,menikah,s1,3,5000000,islam,Recruiter
+Responden265,62,P,menikah,s2,2,15000000,islam,Human Resources Assistant I
+Responden266,38,L,menikah,s1,5,7000000,islam,Human Resources Assistant III
+Responden267,21,P,belum menikah,s1,2,6000000,protestan,Compensation Analyst
+Responden268,62,L,menikah,sma,6,1000000,islam,Recruiting Manager
+Responden269,61,P,janda/duda,s1,6,11000000,islam,Operator
+Responden270,39,P,menikah,s3,4,8000000,islam,Physical Therapy Assistant
+Responden271,32,P,cerai,s2,5,6000000,islam,Assistant Media Planner
+Responden272,61,P,cerai,smp,4,6000000,islam,Research Assistant I
+Responden273,31,L,cerai,sma,3,10000000,islam,Systems Administrator IV
+Responden274,24,L,belum menikah,sma,1,3000000,islam,Human Resources Assistant IV
+Responden275,50,L,janda/duda,s2,5,12000000,islam,Legal Assistant
+Responden276,42,L,cerai,sma,5,4000000,islam,Help Desk Operator
+Responden277,79,P,cerai,s2,2,8000000,islam,Data Coordinator
+Responden278,27,P,belum menikah,sd,6,3000000,islam,Payment Adjustment Coordinator
+Responden279,18,P,belum menikah,s2,3,7000000,islam,
+Responden280,34,P,belum menikah,s1,6,1000000,islam,Account Coordinator
+Responden281,80,P,janda/duda,sma,3,7000000,islam,Research Assistant II
+Responden282,46,L,menikah,sma,5,12000000,islam,Assistant Media Planner
+Responden283,37,L,menikah,s1,4,13000000,islam,Programmer Analyst III
+Responden284,68,P,menikah,s2,3,6000000,islam,Sales Associate
+Responden285,23,L,belum menikah,sd,4,12000000,islam,Desktop Support Technician
+Responden286,49,L,menikah,s2,5,12000000,islam,Account Executive
+Responden287,33,P,menikah,s1,4,11000000,hindu,Computer Systems Analyst I
+Responden288,60,P,janda/duda,sma,5,1000000,islam,Database Administrator IV
+Responden289,56,P,menikah,sma,1,15000000,islam,Health Coach I
+Responden290,41,L,menikah,s1,3,12000000,islam,Staff Scientist
+Responden291,75,L,menikah,sd,4,10000000,islam,Speech Pathologist
+Responden292,33,P,menikah,s1,4,14000000,islam,Budget/Accounting Analyst IV
+Responden293,25,P,belum menikah,sma,5,12000000,islam,Geological Engineer
+Responden294,63,P,menikah,s1,6,11000000,islam,Nurse Practicioner
+Responden295,52,L,janda/duda,s1,3,3000000,islam,
+Responden296,38,L,menikah,sma,3,9000000,katolik,Electrical Engineer
+Responden297,47,L,menikah,s1,6,12000000,islam,Technical Writer
+Responden298,34,P,menikah,sma,2,6000000,islam,Executive Secretary
+Responden299,39,L,janda/duda,s1,6,5000000,islam,Associate Professor
+Responden300,66,L,janda/duda,s1,2,9000000,islam,Account Executive
+Responden301,58,L,menikah,sma,2,8000000,islam,Senior Cost Accountant
+Responden302,58,L,menikah,sma,5,1000000,katolik,Senior Cost Accountant
+Responden303,41,P,menikah,s1,1,9000000,islam,Recruiting Manager
+Responden304,48,L,menikah,s1,6,4000000,islam,Senior Quality Engineer
+Responden305,24,P,menikah,smp,4,4000000,islam,Account Executive
+Responden306,23,L,janda/duda,s1,4,14000000,islam,Office Assistant III
+Responden307,41,P,janda/duda,s1,1,3000000,islam,Account Coordinator
+Responden308,30,L,menikah,s2,1,1000000,katolik,Web Developer II
+Responden309,73,L,janda/duda,s2,1,3000000,islam,Office Assistant I
+Responden310,66,P,janda/duda,s1,3,11000000,islam,Tax Accountant
+Responden311,63,P,janda/duda,smp,1,8000000,katolik,Staff Accountant IV
+Responden312,34,L,belum menikah,sma,4,5000000,islam,Nuclear Power Engineer
+Responden313,70,P,menikah,s1,1,3000000,islam,Clinical Specialist
+Responden314,78,P,janda/duda,s1,2,3000000,islam,Assistant Manager
+Responden315,74,P,cerai,s2,6,5000000,islam,Office Assistant I
+Responden316,55,P,janda/duda,s2,2,9000000,islam,Database Administrator II
+Responden317,62,L,menikah,smp,6,7000000,islam,Business Systems Development Analyst
+Responden318,35,P,menikah,s1,2,14000000,islam,Information Systems Manager
+Responden319,34,P,janda/duda,s1,4,7000000,protestan,Nurse Practicioner
+Responden320,40,P,menikah,smp,1,3000000,islam,Professor
+Responden321,56,L,janda/duda,sma,5,7000000,islam,Operator
+Responden322,65,L,cerai,sma,5,9000000,islam,Design Engineer
+Responden323,46,L,menikah,s2,1,4000000,protestan,Marketing Manager
+Responden324,23,L,belum menikah,sma,3,11000000,islam,Web Designer IV
+Responden325,79,L,cerai,s1,1,1000000,islam,Senior Editor
+Responden326,71,P,cerai,s1,6,1000000,islam,Administrative Officer
+Responden327,39,P,cerai,s2,6,7000000,islam,Web Designer III
+Responden328,22,P,menikah,sd,1,8000000,islam,Senior Quality Engineer
+Responden329,55,L,janda/duda,smp,2,14000000,islam,Editor
+Responden330,32,L,cerai,sma,3,6000000,islam,Database Administrator IV
+Responden331,63,L,janda/duda,s3,4,14000000,islam,Senior Developer
+Responden332,79,L,cerai,s1,1,13000000,islam,Developer I
+Responden333,76,L,cerai,s1,6,15000000,katolik,Community Outreach Specialist
+Responden334,67,P,cerai,sma,5,10000000,katolik,Developer I
+Responden335,49,L,menikah,sma,3,6000000,islam,Human Resources Manager
+Responden336,49,P,cerai,s1,4,1000000,islam,Senior Sales Associate
+Responden337,69,P,janda/duda,s1,4,14000000,katolik,Human Resources Manager
+Responden338,42,P,janda/duda,s3,1,4000000,islam,Civil Engineer
+Responden339,19,L,belum menikah,sd,2,15000000,islam,Administrative Assistant I
+Responden340,42,L,menikah,smp,1,5000000,islam,Paralegal
+Responden341,49,P,menikah,sma,3,8000000,islam,Design Engineer
+Responden342,46,L,menikah,s1,6,5000000,islam,Nurse
+Responden343,75,L,menikah,s1,4,10000000,islam,Physical Therapy Assistant
+Responden344,79,P,janda/duda,s1,5,2000000,islam,Business Systems Development Analyst
+Responden345,54,P,menikah,sd,4,12000000,islam,Internal Auditor
+Responden346,67,L,janda/duda,sma,6,3000000,islam,Quality Control Specialist
+Responden347,26,P,menikah,sma,6,12000000,islam,Compensation Analyst
+Responden348,32,L,menikah,s1,2,13000000,islam,Compensation Analyst
+Responden349,65,P,janda/duda,s3,6,1000000,islam,Clinical Specialist
+Responden350,59,P,janda/duda,s3,4,7000000,islam,Speech Pathologist
+Responden351,28,L,menikah,s1,3,7000000,islam,Software Consultant
+Responden352,79,L,cerai,s1,1,5000000,islam,Cost Accountant
+Responden353,65,P,cerai,sma,5,4000000,islam,Staff Accountant II
+Responden354,57,P,cerai,sma,6,13000000,islam,Physical Therapy Assistant
+Responden355,61,L,janda/duda,sma,1,12000000,islam,Structural Engineer
+Responden356,35,P,menikah,sma,1,13000000,islam,Environmental Specialist
+Responden357,27,L,belum menikah,sd,3,8000000,islam,Health Coach IV
+Responden358,23,P,menikah,sma,1,13000000,islam,Structural Analysis Engineer
+Responden359,37,P,menikah,s1,6,7000000,islam,Assistant Media Planner
+Responden360,58,L,janda/duda,s2,5,7000000,islam,Occupational Therapist
+Responden361,50,P,janda/duda,sma,4,8000000,islam,Business Systems Development Analyst
+Responden362,33,L,menikah,s1,5,7000000,islam,Senior Editor
+Responden363,57,P,cerai,s3,6,8000000,islam,Statistician I
+Responden364,27,L,menikah,s1,2,2000000,islam,
+Responden365,45,L,cerai,s2,4,10000000,protestan,Automation Specialist II
+Responden366,47,P,menikah,s3,1,13000000,islam,Sales Representative
+Responden367,68,P,janda/duda,sma,4,4000000,islam,Staff Scientist
+Responden368,37,P,menikah,sma,6,11000000,islam,Programmer I
+Responden369,26,P,menikah,s2,6,10000000,islam,Account Coordinator
+Responden370,60,L,menikah,s1,4,5000000,katolik,Programmer Analyst IV
+Responden371,44,P,menikah,s1,2,10000000,islam,VP Quality Control
+Responden372,76,P,cerai,smp,4,11000000,islam,VP Sales
+Responden373,55,P,menikah,s1,3,3000000,islam,Recruiter
+Responden374,26,L,menikah,sd,2,4000000,islam,Senior Financial Analyst
+Responden375,25,P,belum menikah,s2,5,12000000,katolik,Accountant III
+Responden376,29,L,belum menikah,sma,4,8000000,katolik,Web Developer IV
+Responden377,77,P,janda/duda,s2,5,15000000,islam,Engineer III
+Responden378,68,L,janda/duda,sma,4,7000000,islam,Occupational Therapist
+Responden379,24,L,belum menikah,s1,4,14000000,hindu,Analog Circuit Design manager
+Responden380,48,P,janda/duda,s1,3,15000000,islam,Administrative Officer
+Responden381,18,L,belum menikah,sma,5,2000000,islam,Professor
+Responden382,64,P,janda/duda,sma,6,6000000,islam,Editor
+Responden383,69,P,menikah,sma,6,14000000,katolik,Community Outreach Specialist
+Responden384,23,P,menikah,smp,2,6000000,katolik,Clinical Specialist
+Responden385,59,L,menikah,sma,4,5000000,islam,VP Accounting
+Responden386,69,P,janda/duda,sd,3,12000000,islam,Financial Analyst
+Responden387,50,L,menikah,smp,1,3000000,islam,Database Administrator II
+Responden388,56,L,cerai,s1,4,4000000,islam,Financial Analyst
+Responden389,25,P,menikah,s3,6,11000000,islam,Pharmacist
+Responden390,66,P,cerai,s1,4,11000000,islam,Dental Hygienist
+Responden391,45,P,menikah,smp,4,5000000,islam,Software Test Engineer III
+Responden392,77,L,cerai,sma,6,7000000,islam,Administrative Officer
+Responden393,46,L,menikah,s1,4,5000000,hindu,Staff Accountant IV
+Responden394,49,P,menikah,sd,6,11000000,katolik,Nuclear Power Engineer
+Responden395,43,P,menikah,sma,1,2000000,islam,Recruiting Manager
+Responden396,60,P,cerai,s3,5,8000000,islam,VP Sales
+Responden397,49,P,menikah,sma,1,5000000,protestan,Senior Developer
+Responden398,27,L,belum menikah,s2,1,11000000,islam,Automation Specialist IV
+Responden399,43,L,janda/duda,sma,2,10000000,khonghucu,Professor
+Responden400,31,P,menikah,smp,3,14000000,islam,Senior Editor
+Responden401,56,L,menikah,s1,1,13000000,islam,Tax Accountant
+Responden402,80,L,cerai,sma,2,11000000,islam,Editor
+Responden403,69,P,janda/duda,sma,6,5000000,islam,Help Desk Technician
+Responden404,70,L,janda/duda,s1,6,14000000,islam,Senior Cost Accountant
+Responden405,77,P,cerai,sma,6,7000000,islam,Junior Executive
+Responden406,69,P,menikah,s2,4,3000000,islam,Senior Editor
+Responden407,27,L,menikah,s2,1,12000000,islam,Programmer III
+Responden408,34,L,menikah,s2,5,10000000,islam,Research Associate
+Responden409,61,P,janda/duda,smp,6,1000000,islam,Internal Auditor
+Responden410,18,P,belum menikah,s3,3,11000000,islam,Geologist I
+Responden411,55,L,janda/duda,sma,6,5000000,islam,Research Associate
+Responden412,48,L,janda/duda,sma,1,14000000,islam,Safety Technician II
+Responden413,42,P,menikah,sma,1,1000000,katolik,Geological Engineer
+Responden414,31,P,janda/duda,sma,2,5000000,islam,Financial Analyst
+Responden415,30,L,menikah,s2,2,3000000,islam,Senior Developer
+Responden416,42,P,belum menikah,s1,5,4000000,islam,Account Executive
+Responden417,47,P,janda/duda,s1,1,8000000,islam,Nurse Practicioner
+Responden418,48,P,menikah,sma,5,6000000,katolik,Sales Associate
+Responden419,30,P,cerai,sma,1,8000000,budha,Business Systems Development Analyst
+Responden420,26,P,menikah,s1,5,12000000,islam,Assistant Professor
+Responden421,79,L,janda/duda,smp,2,10000000,islam,Desktop Support Technician
+Responden422,26,P,menikah,sma,4,13000000,islam,Recruiter
+Responden423,73,P,cerai,sma,5,14000000,islam,Health Coach IV
+Responden424,31,L,cerai,sma,1,9000000,hindu,Quality Control Specialist
+Responden425,18,P,belum menikah,s2,5,10000000,islam,Actuary
+Responden426,61,L,menikah,sma,6,12000000,islam,Assistant Manager
+Responden427,24,L,menikah,s2,2,9000000,islam,Marketing Manager
+Responden428,70,P,menikah,sma,5,8000000,protestan,Electrical Engineer
+Responden429,38,L,belum menikah,sma,1,5000000,islam,Operator
+Responden430,22,L,belum menikah,sd,6,12000000,protestan,Safety Technician III
+Responden431,68,P,janda/duda,s1,1,12000000,islam,Structural Engineer
+Responden432,22,P,belum menikah,sma,1,11000000,islam,GIS Technical Architect
+Responden433,47,L,belum menikah,s3,5,11000000,protestan,Data Coordinator
+Responden434,19,P,menikah,s1,5,14000000,islam,
+Responden435,27,P,menikah,sma,6,8000000,islam,
+Responden436,52,P,janda/duda,sma,4,8000000,islam,Tax Accountant
+Responden437,34,P,menikah,sma,6,9000000,islam,Information Systems Manager
+Responden438,80,L,menikah,smp,3,12000000,islam,Account Executive
+Responden439,33,P,cerai,sma,2,13000000,islam,Dental Hygienist
+Responden440,28,L,belum menikah,sma,4,5000000,islam,Statistician IV
+Responden441,34,L,menikah,s2,5,15000000,islam,Environmental Specialist
+Responden442,34,L,menikah,sma,6,1000000,islam,VP Quality Control
+Responden443,23,L,menikah,s2,2,9000000,islam,Analyst Programmer
+Responden444,46,P,menikah,s1,2,7000000,islam,Database Administrator III
+Responden445,75,L,cerai,sma,1,14000000,islam,Professor
+Responden446,68,L,cerai,smp,6,12000000,islam,Graphic Designer
+Responden447,47,P,cerai,s2,5,15000000,islam,Project Manager
+Responden448,71,P,cerai,s2,3,11000000,islam,Automation Specialist III
+Responden449,66,P,cerai,sma,1,1000000,islam,Assistant Professor
+Responden450,47,P,menikah,s2,3,1000000,katolik,Geologist II
+Responden451,80,P,janda/duda,sd,4,8000000,islam,Assistant Manager
+Responden452,35,L,menikah,sma,3,7000000,islam,Community Outreach Specialist
+Responden453,38,L,menikah,s1,4,14000000,islam,Senior Cost Accountant
+Responden454,18,L,menikah,sd,4,11000000,islam,Senior Financial Analyst
+Responden455,69,P,janda/duda,smp,1,14000000,islam,Speech Pathologist
+Responden456,31,P,cerai,s1,1,10000000,islam,Programmer Analyst II
+Responden457,43,L,menikah,sma,3,9000000,islam,Business Systems Development Analyst
+Responden458,30,L,belum menikah,s1,5,5000000,islam,Clinical Specialist
+Responden459,31,P,janda/duda,sma,4,5000000,islam,Operator
+Responden460,21,L,menikah,smp,6,2000000,islam,Web Developer III
+Responden461,38,L,menikah,s1,1,15000000,islam,Administrative Officer
+Responden462,33,P,janda/duda,smp,5,13000000,islam,Teacher
+Responden463,22,L,menikah,sma,4,13000000,islam,VP Accounting
+Responden464,59,L,janda/duda,s3,6,6000000,islam,Environmental Specialist
+Responden465,72,P,menikah,sd,6,2000000,islam,Software Consultant
+Responden466,34,P,menikah,s2,2,13000000,islam,Human Resources Assistant I
+Responden467,61,L,menikah,sma,2,12000000,islam,Systems Administrator III
+Responden468,63,L,menikah,sma,6,12000000,islam,Social Worker
+Responden469,64,L,cerai,smp,5,13000000,budha,
+Responden470,78,P,menikah,sma,6,14000000,islam,Administrative Assistant IV
+Responden471,76,L,menikah,sma,4,7000000,islam,VP Product Management
+Responden472,65,L,janda/duda,smp,1,4000000,islam,Database Administrator I
+Responden473,28,L,belum menikah,sma,1,15000000,islam,Desktop Support Technician
+Responden474,69,L,cerai,s1,6,9000000,islam,Project Manager
+Responden475,30,P,cerai,s1,5,3000000,islam,Geological Engineer
+Responden476,25,L,menikah,sma,6,5000000,islam,Computer Systems Analyst IV
+Responden477,75,P,janda/duda,smp,1,2000000,islam,Accountant I
+Responden478,57,L,menikah,sd,2,12000000,islam,Engineer III
+Responden479,33,L,janda/duda,sma,3,8000000,islam,Marketing Assistant
+Responden480,65,P,janda/duda,s1,4,2000000,islam,Developer III
+Responden481,65,P,menikah,s1,2,4000000,islam,Product Engineer
+Responden482,22,P,cerai,s2,3,2000000,islam,Administrative Assistant II
+Responden483,32,P,menikah,sd,1,14000000,islam,Computer Systems Analyst I
+Responden484,41,L,menikah,sd,6,8000000,islam,Recruiting Manager
+Responden485,76,P,cerai,sma,4,6000000,islam,Environmental Specialist
+Responden486,19,L,menikah,sd,4,3000000,islam,Software Test Engineer I
+Responden487,35,P,menikah,s1,1,5000000,islam,Sales Representative
+Responden488,29,L,cerai,smp,2,5000000,islam,VP Product Management
+Responden489,24,L,menikah,s3,6,10000000,protestan,Internal Auditor
+Responden490,33,P,menikah,sma,4,3000000,islam,Accountant IV
+Responden491,67,L,cerai,sma,4,15000000,islam,
+Responden492,73,L,janda/duda,s3,6,2000000,islam,Account Representative III
+Responden493,43,P,menikah,sd,5,11000000,islam,Occupational Therapist
+Responden494,34,P,janda/duda,sma,6,1000000,islam,Accounting Assistant III
+Responden495,57,L,menikah,sma,6,1000000,islam,Mechanical Systems Engineer
+Responden496,20,L,belum menikah,s1,5,9000000,islam,Engineer I
+Responden497,49,L,janda/duda,sd,1,8000000,islam,Community Outreach Specialist
+Responden498,61,P,janda/duda,sma,6,15000000,islam,Executive Secretary
+Responden499,58,P,janda/duda,smp,4,13000000,islam,Statistician IV
+Responden500,59,L,janda/duda,sma,5,9000000,islam,Automation Specialist I
+Responden501,56,L,menikah,sma,6,4000000,islam,Recruiting Manager
+Responden502,42,L,menikah,s1,4,5000000,islam,Assistant Manager
+Responden503,40,P,janda/duda,sma,4,13000000,islam,
+Responden504,64,L,janda/duda,sma,1,4000000,islam,Structural Engineer
+Responden505,64,L,menikah,sma,3,7000000,islam,Librarian
+Responden506,57,L,cerai,s1,5,12000000,islam,Human Resources Assistant I
+Responden507,27,P,menikah,sma,4,1000000,islam,Operator
+Responden508,49,P,menikah,smp,1,12000000,islam,Technical Writer
+Responden509,46,P,menikah,smp,6,8000000,islam,Technical Writer
+Responden510,34,L,menikah,smp,5,8000000,islam,Electrical Engineer
+Responden511,53,L,cerai,s1,6,9000000,protestan,Editor
+Responden512,78,L,cerai,s3,2,9000000,islam,
+Responden513,51,L,menikah,s1,4,9000000,islam,Nurse Practicioner
+Responden514,56,L,janda/duda,sma,1,12000000,islam,Web Developer IV
+Responden515,22,L,menikah,sd,2,14000000,islam,Librarian
+Responden516,19,L,menikah,s2,1,7000000,islam,Accountant I
+Responden517,21,P,menikah,sma,2,5000000,islam,Quality Engineer
+Responden518,22,P,menikah,sma,1,4000000,islam,Engineer III
+Responden519,47,L,menikah,sma,4,1000000,islam,Clinical Specialist
+Responden520,62,L,cerai,s1,2,10000000,islam,Environmental Tech
+Responden521,76,L,menikah,s2,5,5000000,islam,Programmer Analyst III
+Responden522,62,P,cerai,sma,6,2000000,islam,Desktop Support Technician
+Responden523,36,P,menikah,s1,2,15000000,islam,Clinical Specialist
+Responden524,29,P,belum menikah,sma,3,9000000,islam,Food Chemist
+Responden525,74,P,janda/duda,sma,6,4000000,islam,Tax Accountant
+Responden526,31,L,menikah,sma,2,5000000,islam,Registered Nurse
+Responden527,56,L,menikah,sma,2,5000000,islam,Clinical Specialist
+Responden528,65,P,menikah,sma,3,5000000,islam,Internal Auditor
+Responden529,30,P,menikah,smp,5,11000000,islam,Health Coach II
+Responden530,61,L,janda/duda,smp,2,4000000,khonghucu,Account Coordinator
+Responden531,68,P,janda/duda,s3,1,1000000,islam,Help Desk Operator
+Responden532,74,P,cerai,sd,2,6000000,islam,Design Engineer
+Responden533,29,L,menikah,sma,2,1000000,islam,Analyst Programmer
+Responden534,77,P,cerai,sma,4,7000000,islam,Director of Sales
+Responden535,64,P,janda/duda,s2,6,9000000,islam,Environmental Specialist
+Responden536,23,P,belum menikah,sma,1,3000000,islam,Junior Executive
+Responden537,65,P,janda/duda,smp,3,2000000,katolik,VP Product Management
+Responden538,77,L,janda/duda,sma,4,9000000,budha,Media Manager I
+Responden539,56,P,menikah,smp,2,5000000,islam,Chief Design Engineer
+Responden540,63,P,cerai,s3,3,2000000,islam,Cost Accountant
+Responden541,29,L,menikah,sma,2,2000000,islam,Physical Therapy Assistant
+Responden542,75,L,cerai,s1,6,7000000,islam,Web Developer III
+Responden543,67,L,janda/duda,sma,6,5000000,islam,Social Worker
+Responden544,40,P,janda/duda,s1,5,2000000,protestan,Senior Developer
+Responden545,72,P,cerai,sma,2,12000000,islam,Engineer III
+Responden546,78,P,janda/duda,smp,1,15000000,islam,
+Responden547,38,L,cerai,sma,2,8000000,islam,Environmental Tech
+Responden548,56,P,janda/duda,sma,2,2000000,islam,Speech Pathologist
+Responden549,52,L,janda/duda,sma,4,1000000,islam,Web Designer II
+Responden550,64,L,cerai,smp,6,4000000,islam,Tax Accountant
+Responden551,69,L,janda/duda,s1,1,7000000,islam,Engineer IV
+Responden552,67,P,cerai,smp,5,7000000,islam,Systems Administrator IV
+Responden553,54,L,janda/duda,s1,6,11000000,islam,Occupational Therapist
+Responden554,19,L,belum menikah,sma,6,14000000,hindu,Senior Editor
+Responden555,70,P,cerai,s1,2,15000000,islam,GIS Technical Architect
+Responden556,78,P,janda/duda,s1,3,2000000,islam,Analyst Programmer
+Responden557,22,L,menikah,sma,3,7000000,islam,Community Outreach Specialist
+Responden558,22,P,menikah,sma,3,6000000,islam,Food Chemist
+Responden559,58,L,janda/duda,sma,1,9000000,islam,Data Coordinator
+Responden560,31,L,janda/duda,sma,4,9000000,islam,Research Assistant IV
+Responden561,22,P,belum menikah,sd,4,4000000,hindu,Recruiter
+Responden562,72,P,janda/duda,s2,5,7000000,hindu,Compensation Analyst
+Responden563,72,L,cerai,s2,3,9000000,islam,Nurse Practicioner
+Responden564,79,L,menikah,s1,6,15000000,islam,Recruiter
+Responden565,38,P,menikah,smp,1,6000000,islam,Professor
+Responden566,57,P,janda/duda,s3,3,6000000,islam,VP Accounting
+Responden567,40,L,janda/duda,sma,2,7000000,islam,Analog Circuit Design manager
+Responden568,60,P,cerai,s1,6,8000000,islam,Account Executive
+Responden569,40,P,janda/duda,s2,2,7000000,islam,Accounting Assistant I
+Responden570,18,L,menikah,sma,6,2000000,islam,Senior Editor
+Responden571,18,P,belum menikah,smp,3,14000000,islam,Research Associate
+Responden572,55,P,menikah,s1,5,11000000,katolik,VP Marketing
+Responden573,50,P,menikah,sma,1,8000000,islam,Budget/Accounting Analyst III
+Responden574,74,P,menikah,sma,3,5000000,islam,Assistant Manager
+Responden575,80,L,menikah,s3,2,14000000,protestan,Pharmacist
+Responden576,72,P,menikah,s1,4,10000000,islam,Social Worker
+Responden577,20,L,belum menikah,sd,1,4000000,islam,Data Coordinator
+Responden578,33,L,janda/duda,s1,5,8000000,islam,Project Manager
+Responden579,57,L,janda/duda,s1,1,14000000,hindu,Tax Accountant
+Responden580,69,L,menikah,s2,1,7000000,islam,Programmer Analyst I
+Responden581,31,P,janda/duda,sma,2,8000000,islam,Chief Design Engineer
+Responden582,44,P,janda/duda,smp,1,1000000,hindu,GIS Technical Architect
+Responden583,62,P,cerai,s1,5,4000000,islam,VP Quality Control
+Responden584,25,L,belum menikah,sd,5,14000000,islam,Assistant Media Planner
+Responden585,45,L,belum menikah,s1,1,8000000,katolik,Financial Analyst
+Responden586,35,P,cerai,sma,2,8000000,islam,Senior Editor
+Responden587,61,P,janda/duda,s2,5,11000000,islam,Geological Engineer
+Responden588,48,L,menikah,smp,6,9000000,islam,Senior Developer
+Responden589,79,L,janda/duda,s2,2,11000000,islam,Senior Sales Associate
+Responden590,45,L,menikah,smp,2,7000000,islam,Editor
+Responden591,20,L,janda/duda,sma,2,11000000,islam,Legal Assistant
+Responden592,32,P,janda/duda,sd,2,1000000,hindu,Senior Editor
+Responden593,80,L,janda/duda,s2,4,3000000,protestan,Accountant II
+Responden594,32,L,cerai,s1,1,10000000,islam,Nurse Practicioner
+Responden595,36,P,janda/duda,sma,2,4000000,islam,
+Responden596,61,L,menikah,sma,5,8000000,islam,VP Marketing
+Responden597,44,L,menikah,sd,6,15000000,protestan,Physical Therapy Assistant
+Responden598,59,P,janda/duda,smp,1,12000000,islam,Junior Executive
+Responden599,57,L,cerai,sma,1,7000000,islam,Operator
+Responden600,50,L,janda/duda,sma,3,11000000,islam,Sales Associate
+Responden601,49,L,janda/duda,sma,1,14000000,islam,Computer Systems Analyst III
+Responden602,76,L,menikah,sma,3,5000000,islam,Librarian
+Responden603,26,L,belum menikah,sd,1,12000000,katolik,Social Worker
+Responden604,31,L,menikah,sma,4,6000000,protestan,Cost Accountant
+Responden605,48,L,cerai,sma,4,7000000,islam,Social Worker
+Responden606,58,P,cerai,smp,2,1000000,khonghucu,Junior Executive
+Responden607,60,L,menikah,sma,6,15000000,islam,Programmer III
+Responden608,43,L,menikah,s1,6,4000000,islam,Assistant Manager
+Responden609,75,L,cerai,s1,5,15000000,islam,Design Engineer
+Responden610,80,P,menikah,s1,1,11000000,islam,Professor
+Responden611,42,L,menikah,smp,4,5000000,protestan,Assistant Manager
+Responden612,41,P,menikah,s1,6,3000000,islam,Technical Writer
+Responden613,35,L,janda/duda,s2,6,5000000,islam,Recruiter
+Responden614,22,L,menikah,sma,6,1000000,islam,Programmer Analyst IV
+Responden615,38,P,menikah,s1,1,10000000,islam,Account Executive
+Responden616,25,L,menikah,sma,6,11000000,protestan,Mechanical Systems Engineer
+Responden617,33,L,cerai,s1,1,7000000,islam,Systems Administrator IV
+Responden618,31,P,menikah,s3,5,15000000,islam,Registered Nurse
+Responden619,21,P,belum menikah,sma,2,2000000,islam,Help Desk Operator
+Responden620,46,L,menikah,sma,4,6000000,islam,Account Executive
+Responden621,56,L,janda/duda,s2,2,2000000,budha,Cost Accountant
+Responden622,40,L,janda/duda,sma,4,14000000,islam,Clinical Specialist
+Responden623,59,P,cerai,s2,4,3000000,islam,Recruiting Manager
+Responden624,66,L,janda/duda,s1,6,14000000,islam,Registered Nurse
+Responden625,59,L,janda/duda,smp,1,4000000,islam,Developer III
+Responden626,26,L,belum menikah,sma,3,7000000,islam,Operator
+Responden627,73,P,janda/duda,sma,6,12000000,islam,Mechanical Systems Engineer
+Responden628,45,L,menikah,smp,5,2000000,islam,Account Executive
+Responden629,68,P,menikah,s1,5,10000000,islam,Software Test Engineer III
+Responden630,37,P,cerai,sma,5,11000000,islam,VP Marketing
+Responden631,45,P,janda/duda,s1,3,6000000,islam,VP Sales
+Responden632,37,L,menikah,sma,4,9000000,islam,Senior Sales Associate
+Responden633,24,L,menikah,sma,2,7000000,islam,Health Coach IV
+Responden634,76,P,janda/duda,s2,4,12000000,islam,Account Coordinator
+Responden635,71,L,cerai,sma,2,7000000,budha,Statistician I
+Responden636,42,L,janda/duda,s1,2,13000000,islam,Registered Nurse
+Responden637,68,P,menikah,sma,2,2000000,katolik,Environmental Specialist
+Responden638,19,L,menikah,smp,2,7000000,islam,VP Sales
+Responden639,59,P,janda/duda,s3,6,15000000,islam,Recruiter
+Responden640,61,L,janda/duda,s2,3,2000000,islam,Analyst Programmer
+Responden641,65,L,janda/duda,sma,5,12000000,islam,Mechanical Systems Engineer
+Responden642,31,L,menikah,sma,6,7000000,protestan,Project Manager
+Responden643,70,L,janda/duda,sma,1,7000000,protestan,Automation Specialist II
+Responden644,28,L,menikah,s3,3,10000000,islam,Sales Associate
+Responden645,69,P,janda/duda,s1,4,4000000,islam,Analyst Programmer
+Responden646,49,P,cerai,s2,3,14000000,islam,Account Representative I
+Responden647,46,L,janda/duda,sma,2,13000000,islam,Cost Accountant
+Responden648,44,L,menikah,smp,1,7000000,islam,Director of Sales
+Responden649,76,L,cerai,sd,4,4000000,islam,Geological Engineer
+Responden650,63,P,janda/duda,sma,5,13000000,islam,Senior Editor
+Responden651,33,L,cerai,smp,2,5000000,katolik,Account Coordinator
+Responden652,32,L,menikah,sd,5,1000000,islam,VP Sales
+Responden653,21,L,cerai,s1,2,3000000,islam,Help Desk Technician
+Responden654,24,L,menikah,sma,1,13000000,islam,Environmental Specialist
+Responden655,19,P,cerai,s1,4,1000000,islam,Accounting Assistant II
+Responden656,72,P,janda/duda,smp,1,3000000,islam,Assistant Media Planner
+Responden657,50,L,menikah,sma,2,7000000,islam,Developer III
+Responden658,50,P,cerai,sma,3,9000000,islam,VP Accounting
+Responden659,46,P,menikah,s2,2,2000000,islam,Mechanical Systems Engineer
+Responden660,34,L,menikah,sma,3,15000000,islam,Teacher
+Responden661,49,P,cerai,s1,1,9000000,islam,Human Resources Assistant I
+Responden662,39,P,menikah,sma,1,4000000,islam,Programmer Analyst I
+Responden663,44,P,menikah,s3,3,8000000,islam,
+Responden664,74,L,janda/duda,s1,1,12000000,islam,Account Coordinator
+Responden665,30,P,menikah,sma,4,8000000,islam,Quality Engineer
+Responden666,62,L,janda/duda,smp,1,10000000,islam,Health Coach II
+Responden667,18,P,belum menikah,s1,4,2000000,islam,Account Executive
+Responden668,26,L,menikah,sma,6,14000000,islam,Research Nurse
+Responden669,78,P,menikah,s1,1,14000000,islam,Electrical Engineer
+Responden670,43,L,cerai,sma,3,1000000,islam,Dental Hygienist
+Responden671,72,L,menikah,sma,4,4000000,islam,Social Worker
+Responden672,51,P,menikah,s2,2,5000000,islam,Database Administrator I
+Responden673,57,L,janda/duda,sma,4,4000000,islam,Senior Quality Engineer
+Responden674,77,P,menikah,s1,3,4000000,islam,Product Engineer
+Responden675,76,P,janda/duda,sma,3,7000000,islam,Mechanical Systems Engineer
+Responden676,73,L,janda/duda,s1,4,9000000,islam,Financial Analyst
+Responden677,18,L,menikah,sma,2,7000000,islam,Design Engineer
+Responden678,48,L,menikah,sma,6,3000000,islam,Quality Control Specialist
+Responden679,48,L,menikah,sma,3,7000000,islam,Environmental Specialist
+Responden680,55,P,janda/duda,sma,6,13000000,islam,Payment Adjustment Coordinator
+Responden681,31,L,janda/duda,s1,4,10000000,islam,Research Assistant II
+Responden682,66,L,janda/duda,sma,4,5000000,islam,Food Chemist
+Responden683,70,L,cerai,sma,3,13000000,islam,Marketing Manager
+Responden684,73,L,menikah,s3,4,8000000,islam,Research Nurse
+Responden685,70,L,janda/duda,s1,4,15000000,islam,Accountant I
+Responden686,19,L,menikah,s2,4,14000000,islam,Administrative Officer
+Responden687,56,L,menikah,sma,4,12000000,islam,Structural Analysis Engineer
+Responden688,59,L,menikah,sma,3,14000000,islam,Professor
+Responden689,65,L,janda/duda,sd,2,7000000,islam,VP Accounting
+Responden690,21,L,menikah,s1,3,8000000,islam,Office Assistant II
+Responden691,19,L,janda/duda,sma,1,4000000,islam,GIS Technical Architect
+Responden692,68,L,cerai,smp,4,14000000,protestan,Structural Engineer
+Responden693,21,P,cerai,sma,2,13000000,islam,Account Coordinator
+Responden694,48,P,menikah,s1,2,12000000,islam,Business Systems Development Analyst
+Responden695,80,P,cerai,sma,1,3000000,islam,Professor
+Responden696,30,P,menikah,s1,6,13000000,katolik,Actuary
+Responden697,18,L,menikah,sma,1,8000000,islam,Account Coordinator
+Responden698,80,P,janda/duda,s1,2,14000000,islam,Nurse Practicioner
+Responden699,54,L,janda/duda,sma,4,15000000,islam,Human Resources Assistant IV
+Responden700,60,P,cerai,smp,3,13000000,islam,Pharmacist
+Responden701,74,L,janda/duda,s3,6,3000000,islam,
+Responden702,71,P,janda/duda,s1,6,13000000,islam,Software Test Engineer IV
+Responden703,50,P,janda/duda,s1,1,2000000,islam,Structural Engineer
+Responden704,26,L,cerai,s2,1,5000000,islam,Speech Pathologist
+Responden705,26,L,menikah,smp,6,8000000,islam,Design Engineer
+Responden706,37,L,menikah,sd,1,8000000,islam,Chief Design Engineer
+Responden707,36,P,menikah,s2,5,8000000,islam,Product Engineer
+Responden708,72,P,janda/duda,s1,3,15000000,islam,Senior Financial Analyst
+Responden709,60,L,janda/duda,sma,5,14000000,islam,Internal Auditor
+Responden710,34,P,cerai,sma,3,4000000,islam,Product Engineer
+Responden711,43,P,cerai,s1,5,15000000,islam,Registered Nurse
+Responden712,45,L,janda/duda,sma,4,8000000,katolik,Electrical Engineer
+Responden713,57,L,menikah,sma,6,2000000,islam,Financial Analyst
+Responden714,56,P,janda/duda,sma,1,6000000,protestan,Assistant Professor
+Responden715,74,L,menikah,sma,6,1000000,katolik,Senior Quality Engineer
+Responden716,61,P,janda/duda,s1,1,14000000,islam,Analyst Programmer
+Responden717,39,P,menikah,smp,5,2000000,islam,Business Systems Development Analyst
+Responden718,40,L,belum menikah,s1,4,10000000,islam,Nurse Practicioner
+Responden719,29,P,belum menikah,sma,4,9000000,khonghucu,Safety Technician III
+Responden720,64,L,janda/duda,s1,3,11000000,islam,Dental Hygienist
+Responden721,47,P,menikah,s1,3,10000000,islam,Senior Editor
+Responden722,23,L,menikah,s3,6,14000000,islam,Environmental Specialist
+Responden723,48,L,belum menikah,sma,2,7000000,islam,Geologist I
+Responden724,44,L,menikah,s2,5,4000000,islam,Geologist II
+Responden725,56,P,janda/duda,s1,2,13000000,islam,Quality Control Specialist
+Responden726,52,L,cerai,s2,4,13000000,islam,Research Nurse
+Responden727,46,L,menikah,sma,2,11000000,islam,Developer III
+Responden728,66,P,menikah,sma,1,6000000,khonghucu,Assistant Professor
+Responden729,70,P,janda/duda,s2,3,3000000,islam,Account Executive
+Responden730,72,L,menikah,sma,3,4000000,islam,Analyst Programmer
+Responden731,69,L,janda/duda,sma,3,12000000,islam,Staff Accountant I
+Responden732,33,L,cerai,s1,6,9000000,islam,Nurse
+Responden733,66,L,janda/duda,s2,2,13000000,islam,Social Worker
+Responden734,64,L,menikah,s1,4,13000000,islam,Account Coordinator
+Responden735,79,L,menikah,sma,5,15000000,islam,Associate Professor
+Responden736,48,L,menikah,s3,4,6000000,islam,Professor
+Responden737,38,P,menikah,sma,4,7000000,islam,Administrative Assistant II
+Responden738,69,L,janda/duda,sma,1,14000000,islam,
+Responden739,67,L,menikah,s1,5,12000000,islam,Analog Circuit Design manager
+Responden740,21,P,menikah,sd,6,8000000,islam,Compensation Analyst
+Responden741,43,L,menikah,s1,4,1000000,hindu,Software Test Engineer IV
+Responden742,79,L,cerai,sd,1,14000000,islam,Project Manager
+Responden743,32,P,menikah,s1,1,14000000,islam,Senior Cost Accountant
+Responden744,63,L,janda/duda,smp,1,7000000,islam,Software Engineer I
+Responden745,73,P,janda/duda,smp,6,4000000,katolik,Computer Systems Analyst I
+Responden746,30,L,menikah,s1,1,3000000,islam,Financial Advisor
+Responden747,21,L,belum menikah,sma,3,10000000,protestan,Senior Quality Engineer
+Responden748,41,P,menikah,s2,6,12000000,islam,Research Assistant IV
+Responden749,66,L,janda/duda,s1,5,15000000,islam,Analog Circuit Design manager
+Responden750,33,P,cerai,s1,4,11000000,katolik,Physical Therapy Assistant
+Responden751,33,P,menikah,s2,1,10000000,islam,Information Systems Manager
+Responden752,29,P,menikah,sma,2,14000000,protestan,Director of Sales
+Responden753,32,L,menikah,sma,2,6000000,islam,Project Manager
+Responden754,43,P,janda/duda,s2,6,7000000,islam,Desktop Support Technician
+Responden755,24,L,menikah,s2,2,7000000,islam,Dental Hygienist
+Responden756,52,L,menikah,s3,5,1000000,islam,Senior Editor
+Responden757,45,L,janda/duda,sma,1,11000000,islam,Accounting Assistant IV
+Responden758,64,P,janda/duda,s1,6,11000000,katolik,Mechanical Systems Engineer
+Responden759,76,P,janda/duda,s1,1,8000000,islam,Software Engineer II
+Responden760,40,P,cerai,sma,3,10000000,islam,
+Responden761,42,P,cerai,sd,2,11000000,katolik,Chemical Engineer
+Responden762,74,L,janda/duda,sma,6,2000000,islam,Payment Adjustment Coordinator
+Responden763,54,L,janda/duda,sma,6,2000000,islam,Paralegal
+Responden764,43,P,cerai,sma,4,4000000,islam,Web Designer IV
+Responden765,60,L,cerai,s1,5,12000000,islam,Social Worker
+Responden766,65,P,janda/duda,s1,1,11000000,islam,
+Responden767,26,P,belum menikah,s2,5,5000000,islam,
+Responden768,60,P,janda/duda,s2,4,6000000,islam,Programmer Analyst II
+Responden769,68,P,janda/duda,sd,1,10000000,khonghucu,GIS Technical Architect
+Responden770,34,L,menikah,s2,3,11000000,islam,Analog Circuit Design manager
+Responden771,18,L,belum menikah,sma,3,1000000,islam,Editor
+Responden772,66,L,janda/duda,s1,1,12000000,islam,Internal Auditor
+Responden773,29,L,belum menikah,sma,1,11000000,katolik,Quality Engineer
+Responden774,35,L,menikah,sma,3,6000000,islam,Assistant Professor
+Responden775,24,L,belum menikah,s2,5,12000000,islam,Mechanical Systems Engineer
+Responden776,23,L,menikah,s2,1,7000000,islam,Editor
+Responden777,20,P,janda/duda,s3,5,15000000,islam,Media Manager I
+Responden778,74,P,janda/duda,sma,6,10000000,protestan,Marketing Manager
+Responden779,70,L,janda/duda,s3,3,5000000,hindu,Marketing Assistant
+Responden780,28,L,menikah,s1,1,14000000,islam,Web Designer IV
+Responden781,24,P,belum menikah,sma,6,9000000,islam,Programmer Analyst I
+Responden782,34,P,menikah,s2,4,1000000,katolik,Senior Developer
+Responden783,29,L,belum menikah,sma,2,13000000,islam,Human Resources Manager
+Responden784,59,P,menikah,sma,1,9000000,hindu,Graphic Designer
+Responden785,38,P,janda/duda,sma,1,10000000,hindu,Media Manager IV
+Responden786,22,L,belum menikah,smp,4,3000000,islam,Developer IV
+Responden787,49,L,cerai,sma,1,13000000,islam,Systems Administrator III
+Responden788,71,P,janda/duda,smp,1,3000000,islam,VP Accounting
+Responden789,31,L,cerai,sma,1,14000000,islam,Automation Specialist III
+Responden790,53,P,menikah,sd,1,15000000,islam,Project Manager
+Responden791,40,P,janda/duda,smp,1,12000000,islam,Tax Accountant
+Responden792,33,L,menikah,sma,1,8000000,islam,Librarian
+Responden793,35,L,menikah,sma,4,12000000,islam,Editor
+Responden794,45,P,menikah,sma,2,1000000,islam,Chief Design Engineer
+Responden795,54,L,janda/duda,sma,2,13000000,islam,Human Resources Assistant II
+Responden796,46,L,menikah,sma,2,10000000,islam,
+Responden797,58,L,menikah,s1,4,2000000,islam,Nuclear Power Engineer
+Responden798,74,P,janda/duda,s2,1,8000000,protestan,Assistant Manager
+Responden799,38,P,cerai,sma,4,13000000,katolik,Librarian
+Responden800,47,P,menikah,smp,5,9000000,islam,Registered Nurse
+Responden801,76,L,cerai,s2,3,11000000,islam,Recruiting Manager
+Responden802,64,L,janda/duda,s3,5,11000000,islam,Director of Sales
+Responden803,51,L,janda/duda,sma,3,1000000,islam,Chief Design Engineer
+Responden804,59,L,janda/duda,s1,1,3000000,islam,Clinical Specialist
+Responden805,23,L,menikah,s1,6,3000000,islam,Teacher
+Responden806,50,L,cerai,sma,5,10000000,islam,Database Administrator III
+Responden807,70,L,janda/duda,s1,4,4000000,protestan,Help Desk Operator
+Responden808,70,L,cerai,sma,3,1000000,islam,Internal Auditor
+Responden809,31,P,cerai,sma,3,6000000,islam,Actuary
+Responden810,80,P,janda/duda,sd,4,10000000,islam,Research Associate
+Responden811,51,P,menikah,sma,1,5000000,budha,
+Responden812,69,L,janda/duda,sma,3,7000000,katolik,Data Coordinator
+Responden813,40,P,menikah,sma,5,14000000,budha,VP Quality Control
+Responden814,43,P,janda/duda,smp,5,9000000,islam,Help Desk Technician
+Responden815,27,P,belum menikah,sma,4,15000000,islam,Operator
+Responden816,27,L,menikah,s2,1,13000000,islam,Actuary
+Responden817,56,L,cerai,smp,4,1000000,islam,Geological Engineer
+Responden818,29,L,menikah,smp,4,11000000,islam,Software Consultant
+Responden819,65,L,janda/duda,sma,6,8000000,islam,VP Quality Control
+Responden820,58,P,janda/duda,smp,2,5000000,islam,Biostatistician IV
+Responden821,33,L,menikah,s1,4,7000000,islam,Financial Analyst
+Responden822,26,P,belum menikah,s3,3,7000000,islam,Cost Accountant
+Responden823,33,P,menikah,s2,1,5000000,katolik,Help Desk Operator
+Responden824,80,P,menikah,s1,2,8000000,islam,Safety Technician III
+Responden825,28,L,menikah,s3,2,5000000,islam,Teacher
+Responden826,55,L,janda/duda,s2,4,14000000,islam,Analyst Programmer
+Responden827,31,P,cerai,smp,1,4000000,islam,Sales Associate
+Responden828,40,L,menikah,s2,1,12000000,islam,Senior Developer
+Responden829,31,L,menikah,s1,2,1000000,islam,Technical Writer
+Responden830,18,L,belum menikah,s2,4,14000000,islam,Automation Specialist IV
+Responden831,52,L,cerai,s1,2,14000000,budha,Software Engineer IV
+Responden832,18,L,belum menikah,sd,4,1000000,islam,Operator
+Responden833,51,P,janda/duda,smp,3,4000000,islam,Senior Editor
+Responden834,60,L,cerai,s3,2,15000000,islam,Senior Sales Associate
+Responden835,20,P,belum menikah,sma,6,12000000,islam,Software Test Engineer I
+Responden836,46,L,menikah,sma,4,1000000,islam,Graphic Designer
+Responden837,33,P,belum menikah,sma,3,2000000,islam,VP Accounting
+Responden838,73,L,janda/duda,sma,1,6000000,islam,Quality Control Specialist
+Responden839,61,L,janda/duda,sma,2,14000000,islam,Actuary
+Responden840,64,L,janda/duda,smp,6,3000000,islam,Geological Engineer
+Responden841,32,L,belum menikah,s1,1,7000000,islam,Software Engineer I
+Responden842,67,P,janda/duda,smp,1,7000000,islam,Staff Scientist
+Responden843,22,L,belum menikah,sma,4,13000000,islam,Director of Sales
+Responden844,43,L,menikah,sma,1,5000000,islam,Tax Accountant
+Responden845,49,P,cerai,sma,1,6000000,islam,Automation Specialist I
+Responden846,78,P,cerai,sd,2,3000000,islam,Media Manager IV
+Responden847,73,P,janda/duda,s1,4,1000000,protestan,Registered Nurse
+Responden848,46,P,menikah,sma,1,13000000,islam,Recruiting Manager
+Responden849,45,P,cerai,s2,4,9000000,islam,Health Coach I
+Responden850,65,P,cerai,s1,2,3000000,islam,Recruiting Manager
+Responden851,34,P,menikah,sma,2,11000000,islam,Actuary
+Responden852,41,L,janda/duda,s1,5,9000000,islam,Developer III
+Responden853,38,L,janda/duda,sd,6,12000000,islam,Research Nurse
+Responden854,73,L,menikah,s3,5,9000000,protestan,Director of Sales
+Responden855,59,P,menikah,s1,3,3000000,islam,Marketing Manager
+Responden856,21,L,menikah,s1,4,7000000,katolik,
+Responden857,42,L,cerai,s2,2,7000000,islam,Geological Engineer
+Responden858,18,P,belum menikah,sma,4,3000000,protestan,Accountant IV
+Responden859,77,P,cerai,s2,1,11000000,protestan,Environmental Specialist
+Responden860,51,P,menikah,s1,3,12000000,islam,Quality Control Specialist
+Responden861,38,P,belum menikah,sma,3,12000000,islam,Quality Engineer
+Responden862,50,L,janda/duda,s1,6,8000000,islam,Research Associate
+Responden863,49,P,janda/duda,sma,6,11000000,islam,Web Designer I
+Responden864,50,L,janda/duda,smp,5,1000000,islam,Programmer III
+Responden865,62,P,janda/duda,s1,6,15000000,islam,Senior Sales Associate
+Responden866,67,P,janda/duda,sma,4,12000000,islam,Programmer Analyst II
+Responden867,72,L,cerai,s3,6,13000000,islam,Budget/Accounting Analyst IV
+Responden868,22,L,belum menikah,sma,1,1000000,islam,Administrative Officer
+Responden869,48,L,menikah,sd,1,11000000,islam,Quality Control Specialist
+Responden870,47,P,menikah,s1,3,10000000,hindu,Social Worker
+Responden871,36,L,menikah,s1,6,2000000,islam,Internal Auditor
+Responden872,42,L,menikah,s1,5,10000000,islam,Editor
+Responden873,50,P,menikah,sma,1,8000000,islam,Database Administrator IV
+Responden874,26,P,menikah,s1,4,14000000,hindu,Statistician I
+Responden875,71,L,cerai,sma,6,8000000,islam,Compensation Analyst
+Responden876,50,P,janda/duda,s3,4,6000000,islam,Environmental Specialist
+Responden877,74,L,menikah,sd,3,8000000,islam,VP Accounting
+Responden878,43,P,menikah,s1,1,11000000,islam,Chemical Engineer
+Responden879,57,P,cerai,s3,1,2000000,protestan,Senior Financial Analyst
+Responden880,44,L,menikah,sma,4,4000000,protestan,Structural Engineer
+Responden881,37,L,menikah,smp,6,13000000,islam,Payment Adjustment Coordinator
+Responden882,35,P,menikah,sma,2,6000000,islam,Software Consultant
+Responden883,67,L,menikah,s1,1,1000000,protestan,Mechanical Systems Engineer
+Responden884,76,P,cerai,sma,2,1000000,islam,Human Resources Manager
+Responden885,73,L,menikah,smp,1,12000000,katolik,Programmer IV
+Responden886,51,P,cerai,smp,6,14000000,islam,Project Manager
+Responden887,47,L,menikah,sma,5,1000000,islam,Senior Sales Associate
+Responden888,24,P,belum menikah,sma,5,1000000,islam,Design Engineer
+Responden889,43,P,janda/duda,sma,2,4000000,katolik,Assistant Media Planner
+Responden890,33,L,janda/duda,s2,6,6000000,protestan,Help Desk Technician
+Responden891,40,P,cerai,sma,4,4000000,islam,Programmer II
+Responden892,76,L,janda/duda,smp,1,14000000,islam,Community Outreach Specialist
+Responden893,71,L,cerai,s2,5,14000000,islam,Senior Financial Analyst
+Responden894,59,L,janda/duda,sma,3,15000000,islam,General Manager
+Responden895,27,P,belum menikah,s2,3,11000000,islam,Administrative Assistant IV
+Responden896,55,P,janda/duda,s1,1,7000000,islam,Senior Financial Analyst
+Responden897,39,L,menikah,sma,6,9000000,islam,Registered Nurse
+Responden898,48,L,menikah,sma,4,14000000,islam,Automation Specialist III
+Responden899,64,P,menikah,s3,6,5000000,katolik,Systems Administrator I
+Responden900,68,L,menikah,sma,6,9000000,islam,Recruiter
+Responden901,35,L,menikah,s1,3,4000000,islam,VP Marketing
+Responden902,61,P,cerai,sma,4,6000000,islam,Statistician IV
+Responden903,22,L,menikah,sma,3,3000000,islam,Financial Analyst
+Responden904,78,P,janda/duda,s1,6,14000000,islam,Assistant Professor
+Responden905,66,P,janda/duda,sma,6,9000000,islam,Assistant Manager
+Responden906,22,P,belum menikah,s1,3,9000000,katolik,Professor
+Responden907,21,P,menikah,s2,5,5000000,hindu,Sales Representative
+Responden908,47,L,janda/duda,sma,2,9000000,islam,Compensation Analyst
+Responden909,35,L,cerai,sd,5,11000000,islam,Senior Financial Analyst
+Responden910,79,L,cerai,s2,3,9000000,islam,Senior Quality Engineer
+Responden911,22,P,belum menikah,s1,2,2000000,islam,Occupational Therapist
+Responden912,42,L,belum menikah,sd,4,7000000,islam,Operator
+Responden913,23,L,belum menikah,s1,6,2000000,islam,Executive Secretary
+Responden914,46,L,janda/duda,sma,6,1000000,islam,Marketing Assistant
+Responden915,30,L,cerai,s1,4,9000000,islam,Design Engineer
+Responden916,31,P,cerai,sma,4,8000000,islam,Media Manager II
+Responden917,67,L,cerai,s2,2,5000000,islam,Geologist II
+Responden918,40,P,janda/duda,s3,2,4000000,hindu,VP Sales
+Responden919,49,P,janda/duda,s1,6,5000000,islam,Physical Therapy Assistant
+Responden920,76,P,janda/duda,sd,1,13000000,islam,Physical Therapy Assistant
+Responden921,60,L,janda/duda,smp,3,5000000,islam,Marketing Assistant
+Responden922,73,L,cerai,s3,2,6000000,islam,Tax Accountant
+Responden923,38,P,menikah,sma,3,7000000,budha,Environmental Specialist
+Responden924,49,L,janda/duda,s1,4,4000000,islam,Assistant Professor
+Responden925,70,L,janda/duda,sma,2,11000000,islam,Developer III
+Responden926,76,P,cerai,smp,3,9000000,islam,Professor
+Responden927,49,P,menikah,s3,4,11000000,islam,Marketing Assistant
+Responden928,26,P,belum menikah,s1,3,14000000,islam,Geologist III
+Responden929,31,P,menikah,sma,4,8000000,islam,Account Representative II
+Responden930,58,L,janda/duda,smp,6,11000000,islam,VP Accounting
+Responden931,25,P,belum menikah,s1,3,1000000,islam,Automation Specialist IV
+Responden932,45,L,menikah,s2,1,14000000,islam,
+Responden933,32,P,cerai,smp,4,5000000,islam,Account Representative II
+Responden934,20,L,belum menikah,sma,2,1000000,islam,Professor
+Responden935,39,P,menikah,sma,5,12000000,katolik,Cost Accountant
+Responden936,68,P,cerai,sma,4,4000000,islam,Senior Developer
+Responden937,73,P,janda/duda,sma,3,14000000,hindu,Statistician III
+Responden938,75,L,janda/duda,s2,2,5000000,hindu,Electrical Engineer
+Responden939,19,L,belum menikah,s2,3,1000000,islam,Compensation Analyst
+Responden940,51,L,menikah,sma,1,7000000,katolik,Senior Cost Accountant
+Responden941,19,L,belum menikah,sma,4,13000000,islam,Operator
+Responden942,32,P,belum menikah,smp,2,8000000,islam,Operator
+Responden943,46,P,menikah,sma,2,1000000,hindu,Safety Technician II
+Responden944,53,L,janda/duda,s2,3,2000000,islam,Cost Accountant
+Responden945,51,L,janda/duda,smp,5,1000000,islam,Food Chemist
+Responden946,80,L,janda/duda,s1,5,12000000,katolik,Research Nurse
+Responden947,62,P,janda/duda,sma,2,8000000,islam,Environmental Specialist
+Responden948,70,P,cerai,smp,5,6000000,islam,General Manager
+Responden949,60,P,janda/duda,smp,1,14000000,islam,Structural Analysis Engineer
+Responden950,33,P,janda/duda,sma,6,10000000,islam,Nurse
+Responden951,65,L,janda/duda,sma,1,14000000,islam,Senior Cost Accountant
+Responden952,56,P,janda/duda,sma,3,3000000,islam,Recruiting Manager
+Responden953,77,L,cerai,sma,4,14000000,protestan,Business Systems Development Analyst
+Responden954,26,P,menikah,s2,4,1000000,islam,Executive Secretary
+Responden955,31,P,menikah,sd,2,9000000,islam,Web Developer II
+Responden956,40,L,menikah,sma,5,4000000,islam,Financial Advisor
+Responden957,50,L,janda/duda,s2,4,5000000,islam,Chief Design Engineer
+Responden958,40,P,menikah,s2,4,12000000,hindu,Data Coordinator
+Responden959,73,L,janda/duda,sma,6,11000000,protestan,Programmer Analyst I
+Responden960,71,P,cerai,s1,3,10000000,islam,Executive Secretary
+Responden961,75,P,janda/duda,smp,3,4000000,islam,Systems Administrator II
+Responden962,44,P,cerai,s2,5,11000000,islam,Computer Systems Analyst IV
+Responden963,50,L,janda/duda,s1,6,13000000,islam,Research Associate
+Responden964,47,P,menikah,smp,3,8000000,islam,VP Marketing
+Responden965,30,P,menikah,s3,4,7000000,islam,Computer Systems Analyst IV
+Responden966,70,P,janda/duda,sma,2,3000000,islam,Teacher
+Responden967,70,P,cerai,sma,5,4000000,islam,Media Manager I
+Responden968,39,P,menikah,sma,4,9000000,islam,Senior Editor
+Responden969,24,L,menikah,s1,3,10000000,budha,Research Associate
+Responden970,53,P,janda/duda,sma,5,5000000,islam,Account Executive
+Responden971,30,P,menikah,sd,4,9000000,islam,Senior Sales Associate
+Responden972,77,L,menikah,sd,6,1000000,islam,Geological Engineer
+Responden973,27,P,menikah,sma,5,1000000,islam,Marketing Manager
+Responden974,78,P,menikah,sma,6,7000000,islam,General Manager
+Responden975,37,L,menikah,sma,2,4000000,islam,Legal Assistant
+Responden976,65,P,janda/duda,s1,1,5000000,islam,Speech Pathologist
+Responden977,62,L,janda/duda,sma,6,7000000,islam,Geological Engineer
+Responden978,43,L,menikah,s1,1,11000000,islam,Media Manager I
+Responden979,35,L,menikah,sma,5,5000000,islam,Sales Representative
+Responden980,77,L,cerai,sma,2,7000000,islam,Chief Design Engineer
+Responden981,58,L,janda/duda,smp,1,8000000,islam,Clinical Specialist
+Responden982,20,L,belum menikah,s3,5,1000000,islam,Recruiting Manager
+Responden983,40,L,menikah,s1,6,5000000,hindu,Administrative Officer
+Responden984,62,L,cerai,s1,3,4000000,islam,GIS Technical Architect
+Responden985,50,P,janda/duda,sma,3,5000000,hindu,Financial Analyst
+Responden986,44,P,janda/duda,s2,4,6000000,islam,Help Desk Technician
+Responden987,75,P,menikah,sma,3,13000000,islam,Quality Control Specialist
+Responden988,59,P,janda/duda,sd,1,14000000,islam,Nurse Practicioner
+Responden989,58,P,janda/duda,sma,3,6000000,islam,Recruiter
+Responden990,41,P,menikah,smp,4,10000000,islam,Marketing Manager
+Responden991,76,P,menikah,smp,6,1000000,islam,Speech Pathologist
+Responden992,59,L,janda/duda,s2,2,2000000,islam,Human Resources Assistant IV
+Responden993,56,P,menikah,smp,3,15000000,islam,Teacher
+Responden994,19,P,menikah,s1,1,7000000,islam,Senior Financial Analyst
+Responden995,61,P,janda/duda,sma,3,5000000,katolik,Safety Technician II
+Responden996,74,P,janda/duda,s1,2,4000000,islam,Accountant I
+Responden997,63,L,cerai,smp,3,6000000,protestan,Senior Financial Analyst
+Responden998,45,L,menikah,sma,5,5000000,islam,
+Responden999,49,P,cerai,sma,3,3000000,islam,Actuary
+Responden1000,38,P,menikah,sma,1,15000000,islam,Staff Accountant I
